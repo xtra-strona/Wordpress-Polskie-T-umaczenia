@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GD Rating System\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-22 13:54+0000\n"
-"PO-Revision-Date: 2017-03-22 14:14+0000\n"
+"PO-Revision-Date: 2017-03-24 11:17+0000\n"
 "Last-Translator: rafaoski <rafalolszewicz@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl-PL\n"
@@ -2677,7 +2677,7 @@ msgstr ""
 #: templates/gdrts--stars-rating--single--light.php:15
 #: templates/gdrts--stars-rating--single--expanded.php:26
 msgid "No votes yet."
-msgstr ""
+msgstr "Jeszcze nikt nie zagłosował."
 
 #: templates/gdrts--stars-rating--single--expanded.php:19
 #: templates/gdrts--stars-rating--single--expanded.php:19
