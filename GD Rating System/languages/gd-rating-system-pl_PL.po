@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GD Rating System\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-22 13:54+0000\n"
-"PO-Revision-Date: 2017-03-24 14:55+0000\n"
+"PO-Revision-Date: 2017-03-24 15:05+0000\n"
 "Last-Translator: rafaoski <rafalolszewicz@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl-PL\n"
@@ -2526,7 +2526,7 @@ msgstr ""
 
 #: methods/stars-rating/render.php:91
 msgid "Your previous vote was"
-msgstr ""
+msgstr "Twoje poprzednie głosowanie wynosiło"
 
 #: methods/stars-rating/load.php:390
 msgid "You already voted."
@@ -2546,7 +2546,7 @@ msgstr ""
 
 #: methods/stars-rating/render.php:85
 msgid "You have already voted"
-msgstr ""
+msgstr "Już głosowałeś na"
 
 #: methods/stars-rating/render.php:150
 msgid "You have not voted yet."
