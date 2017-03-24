@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GD Rating System\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-22 13:54+0000\n"
-"PO-Revision-Date: 2017-03-24 11:17+0000\n"
+"PO-Revision-Date: 2017-03-24 14:55+0000\n"
 "Last-Translator: rafaoski <rafalolszewicz@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl-PL\n"
@@ -2672,13 +2672,6 @@ msgstr ""
 msgid "Minus"
 msgstr ""
 
-#: templates/gdrts--stars-rating--single--default.php:15
-#: templates/gdrts--stars-rating--single--feed.php:13
-#: templates/gdrts--stars-rating--single--light.php:15
-#: templates/gdrts--stars-rating--single--expanded.php:26
-msgid "No votes yet."
-msgstr "Jeszcze nikt nie zagłosował."
-
 #: templates/gdrts--stars-rating--single--expanded.php:19
 #: templates/gdrts--stars-rating--single--expanded.php:19
 msgid "Show votes."
@@ -2704,11 +2697,18 @@ msgstr ""
 msgid "Content"
 msgstr ""
 
+#: templates/gdrts--stars-rating--single--default.php:15
+#: templates/gdrts--stars-rating--single--feed.php:13
+#: templates/gdrts--stars-rating--single--light.php:15
+#: templates/gdrts--stars-rating--single--expanded.php:26
+msgid "No votes yet."
+msgstr "Jeszcze nikt nie zagłosował."
+
 #: methods/stars-rating/render.php:376 methods/stars-rating/render.php:49
 msgid "From %s vote."
 msgid_plural "From %s votes."
 msgstr[0] "Przez %s osobę."
-msgstr[1] "Przez %s osoób."
+msgstr[1] "Przez %s osoby."
 msgstr[2] "Przez %s osób."
 
 #: forms/panels/recalc.php:20 methods/stars-rating/admin.php:71
